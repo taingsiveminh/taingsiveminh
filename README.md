@@ -12,6 +12,9 @@ hi there <br>im a full stack developer and AI Engineer <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=taingsiveminh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taingsiveminh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=taingsiveminh&limit=5&theme=solarized-light&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=taingsiveminh&icon=0&color=0)](https://visitcount.itsvg.in)
 
